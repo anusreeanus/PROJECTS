@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>StudentDBproject</name>
+=======
+	<name>MySpringBank</name>
+>>>>>>> 10013c59b635430db611ae94010ead6684b9bef9
 	<comment></comment>
 	<projects>
 	</projects>
